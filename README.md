@@ -5,7 +5,7 @@ A simple To-Do List Task is built using React and Bootstrap for a Dynamic Respon
 
 ## Table of Contents
 
-- [TO-DO LIST](to-do-list)
+  - [TO-DO LIST](#to-do-list)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Programming Languages Used](#programming-languages-used)
@@ -57,4 +57,4 @@ A simple To-Do List Task is built using React and Bootstrap for a Dynamic Respon
 
 ## Nelify Deployed URL
 
-🔸*Check out My To-Do List Here*👉🏻 [Netlify](/)
+🔸*Check out My To-Do List Here*👉🏻 [Netlify](https://wwwtodolistcom.netlify.app/)
